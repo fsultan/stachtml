@@ -1,5 +1,7 @@
 *.py[cod]
 
+sample_www/*
+
 # C extensions
 *.so
 
@@ -29,7 +31,8 @@ nosetests.xml
 # Translations
 *.mo
 
-# Mr Developer
+# IDEs
 .mr.developer.cfg
 .project
 .pydevproject
+.spyderproject
